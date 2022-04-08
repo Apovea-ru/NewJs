@@ -1,4 +1,4 @@
 let admin;
 let name_new;
-name_new = 'Василий';
+name_new = 'Р’Р°СЃРёР»РёР№';
 alert(name_new);
