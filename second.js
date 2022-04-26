@@ -14,7 +14,7 @@
 
 дублировать код. Также в конструкторе AttachedPost должно создаваться свойство
 
-highlighted со значением false. Унаследуйте в объектах типа AttachedPost методы из Post.
+highlighted со значением false. Унаследуйте в объектах типа AttachedPost методы  из Post.
 
 Объекты типа AttachedPost должны иметь метод makeTextHighlighted,
 
